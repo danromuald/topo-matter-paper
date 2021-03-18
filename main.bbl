@@ -1,0 +1,304 @@
+%apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (0) allowed
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{20}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{https://doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Haldane}(1988)}]{haldane_model_1988}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.~D.~M.}\
+  \bibnamefont {Haldane}},\ }\bibfield  {title} {\bibinfo {title} {Model for a
+  {Quantum} {Hall} {Effect} without {Landau} {Levels}: {Condensed}-{Matter}
+  {Realization} of the "{Parity} {Anomaly}"},\ }\href
+  {https://doi.org/10.1103/physrevlett.61.2015} {\bibfield  {journal} {\bibinfo
+   {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {61}},\
+  \bibinfo {pages} {2015} (\bibinfo {year} {1988})},\ \bibinfo {note}
+  {publisher: American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Fu}\ \emph {et~al.}(2007)\citenamefont {Fu},
+  \citenamefont {Kane},\ and\ \citenamefont {Mele}}]{fu_topological_2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Fu}}, \bibinfo {author} {\bibfnamefont {C.~L.}\ \bibnamefont {Kane}},\ and\
+  \bibinfo {author} {\bibfnamefont {E.~J.}\ \bibnamefont {Mele}},\ }\bibfield
+  {title} {\bibinfo {title} {Topological {Insulators} in {Three}
+  {Dimensions}},\ }\bibfield  {journal} {\bibinfo  {journal} {Physical Review
+  Letters}\ }\textbf {\bibinfo {volume} {98}},\ \href
+  {https://doi.org/10.1103/physrevlett.98.106803}
+  {10.1103/physrevlett.98.106803} (\bibinfo {year} {2007}),\ \bibinfo {note}
+  {publisher: American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Barber}(1980)}]{barber_phase_1980}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~N.}\ \bibnamefont
+  {Barber}},\ }\bibfield  {title} {\bibinfo {title} {Phase transitions in two
+  dimensions},\ }\href {https://doi.org/10.1016/0370-1573(80)90026-5}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physics Reports}\ }\textbf
+  {\bibinfo {volume} {59}},\ \bibinfo {pages} {375} (\bibinfo {year} {1980})},\
+  \bibinfo {note} {publisher: Elsevier BV}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Xin}\ \emph {et~al.}(2020)\citenamefont {Xin},
+  \citenamefont {Siyuan}, \citenamefont {Harry}, \citenamefont {Minghui},\ and\
+  \citenamefont {Yanfeng}}]{xin_topological_2020}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Xin}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Siyuan}},
+  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Harry}}, \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Minghui}},\ and\ \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Yanfeng}},\ }\bibfield  {title} {\bibinfo
+  {title} {Topological mechanical metamaterials: {A} brief review},\ }\href
+  {https://doi.org/10.1016/j.cossms.2020.100853} {\bibfield  {journal}
+  {\bibinfo  {journal} {Current Opinion in Solid State and Materials Science}\
+  }\textbf {\bibinfo {volume} {24}},\ \bibinfo {pages} {100853} (\bibinfo
+  {year} {2020})},\ \bibinfo {note} {publisher: Elsevier BV}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Bardeen}\ \emph {et~al.}(1957)\citenamefont
+  {Bardeen}, \citenamefont {Cooper},\ and\ \citenamefont
+  {Schrieffer}}]{bardeen_theory_1957}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Bardeen}}, \bibinfo {author} {\bibfnamefont {L.~N.}\ \bibnamefont
+  {Cooper}},\ and\ \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont
+  {Schrieffer}},\ }\bibfield  {title} {\bibinfo {title} {Theory of
+  {Superconductivity}},\ }\href {https://doi.org/10.1103/physrev.108.1175}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physical Review}\ }\textbf
+  {\bibinfo {volume} {108}},\ \bibinfo {pages} {1175} (\bibinfo {year}
+  {1957})},\ \bibinfo {note} {publisher: American Physical Society
+  (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hohenberg}\ and\ \citenamefont
+  {Krekhov}(2015)}]{hohenberg_introduction_2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Hohenberg}}\ and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Krekhov}},\ }\bibfield  {title} {\bibinfo {title} {An introduction to the
+  {Ginzburg}–{Landau} theory of phase transitions and nonequilibrium
+  patterns},\ }\href {https://doi.org/10.1016/j.physrep.2015.01.001} {\bibfield
+   {journal} {\bibinfo  {journal} {Physics Reports}\ }\textbf {\bibinfo
+  {volume} {572}},\ \bibinfo {pages} {1} (\bibinfo {year} {2015})},\ \bibinfo
+  {note} {publisher: Elsevier BV}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Haim}\ and\ \citenamefont
+  {Oreg}(2019)}]{haim_time-reversal-invariant_2019}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Haim}}\ and\ \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Oreg}},\
+  }\bibfield  {title} {\bibinfo {title} {Time-reversal-invariant topological
+  superconductivity in one and two dimensions},\ }\href
+  {https://doi.org/10.1016/j.physrep.2019.08.002} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physics Reports}\ }\textbf {\bibinfo {volume} {825}},\
+  \bibinfo {pages} {1} (\bibinfo {year} {2019})},\ \bibinfo {note} {publisher:
+  Elsevier BV}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bradley}(2016)}]{bradley_nobel_2016}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Bradley}},\ }\bibfield  {title} {\bibinfo {title} {Nobel {Prizes} 2016},\
+  }\href {https://doi.org/10.1016/j.mattod.2016.11.013} {\bibfield  {journal}
+  {\bibinfo  {journal} {Materials Today}\ }\textbf {\bibinfo {volume} {19}},\
+  \bibinfo {pages} {553} (\bibinfo {year} {2016})},\ \bibinfo {note}
+  {publisher: Elsevier BV}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wen}(2017)}]{wen_colloquium_2017}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {X.-G.}\ \bibnamefont
+  {Wen}},\ }\bibfield  {title} {\bibinfo {title} {Colloquium : {Zoo} of
+  quantum-topological phases of matter},\ }\bibfield  {journal} {\bibinfo
+  {journal} {Reviews of Modern Physics}\ }\textbf {\bibinfo {volume} {89}},\
+  \href {https://doi.org/10.1103/revmodphys.89.041004}
+  {10.1103/revmodphys.89.041004} (\bibinfo {year} {2017}),\ \bibinfo {note}
+  {publisher: American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhang}\ \emph {et~al.}(2018)\citenamefont {Zhang},
+  \citenamefont {Lu}, \citenamefont {Shen}, \citenamefont {Chen},\ and\
+  \citenamefont {Xiu}}]{zhang_towards_2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Zhang}}, \bibinfo {author} {\bibfnamefont {H.-Z.}\ \bibnamefont {Lu}},
+  \bibinfo {author} {\bibfnamefont {S.-Q.}\ \bibnamefont {Shen}}, \bibinfo
+  {author} {\bibfnamefont {Y.~P.}\ \bibnamefont {Chen}},\ and\ \bibinfo
+  {author} {\bibfnamefont {F.}~\bibnamefont {Xiu}},\ }\bibfield  {title}
+  {\bibinfo {title} {Towards the manipulation of topological states of matter:
+  a perspective from electron transport},\ }\href
+  {https://doi.org/10.1016/j.scib.2018.04.007} {\bibfield  {journal} {\bibinfo
+  {journal} {Science Bulletin}\ }\textbf {\bibinfo {volume} {63}},\ \bibinfo
+  {pages} {580} (\bibinfo {year} {2018})},\ \bibinfo {note} {publisher:
+  Elsevier BV}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hu}\ \emph {et~al.}(2020)\citenamefont {Hu},
+  \citenamefont {Ma}, \citenamefont {Liao}, \citenamefont {Li}, \citenamefont
+  {Ma}, \citenamefont {Cui}, \citenamefont {Shangguan}, \citenamefont {Huang},
+  \citenamefont {Qi}, \citenamefont {Li}, \citenamefont {Meng}, \citenamefont
+  {Wen},\ and\ \citenamefont {Yu}}]{hu_evidence_2020}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont
+  {Hu}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Ma}}, \bibinfo
+  {author} {\bibfnamefont {Y.-D.}\ \bibnamefont {Liao}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Li}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Ma}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Cui}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Shangguan}},
+  \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Huang}}, \bibinfo
+  {author} {\bibfnamefont {Y.}~\bibnamefont {Qi}}, \bibinfo {author}
+  {\bibfnamefont {W.}~\bibnamefont {Li}}, \bibinfo {author} {\bibfnamefont
+  {Z.~Y.}\ \bibnamefont {Meng}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Wen}},\ and\ \bibinfo {author} {\bibfnamefont
+  {W.}~\bibnamefont {Yu}},\ }\bibfield  {title} {\bibinfo {title} {Evidence of
+  the {Berezinskii}-{Kosterlitz}-{Thouless} phase in a frustrated magnet},\
+  }\bibfield  {journal} {\bibinfo  {journal} {Nature Communications}\ }\textbf
+  {\bibinfo {volume} {11}},\ \href {https://doi.org/10.1038/s41467-020-19380-x}
+  {10.1038/s41467-020-19380-x} (\bibinfo {year} {2020}),\ \bibinfo {note}
+  {publisher: Springer Science and Business Media LLC}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Pithis}\ and\ \citenamefont
+  {Thürigen}(2018)}]{pithis_phase_2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~G.}\ \bibnamefont
+  {Pithis}}\ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Thürigen}},\ }\bibfield  {title} {\bibinfo {title} {Phase transitions in
+  group field theory: {The} {Landau} perspective},\ }\bibfield  {journal}
+  {\bibinfo  {journal} {Physical Review D}\ }\textbf {\bibinfo {volume} {98}},\
+  \href {https://doi.org/10.1103/physrevd.98.126006}
+  {10.1103/physrevd.98.126006} (\bibinfo {year} {2018}),\ \bibinfo {note}
+  {publisher: American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hasan}\ and\ \citenamefont
+  {Kane}(2010)}]{hasan_colloquium_2010}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.~Z.}\ \bibnamefont
+  {Hasan}}\ and\ \bibinfo {author} {\bibfnamefont {C.~L.}\ \bibnamefont
+  {Kane}},\ }\bibfield  {title} {\bibinfo {title} {Colloquium: {Topological}
+  insulators},\ }\href {https://doi.org/10.1103/revmodphys.82.3045} {\bibfield
+  {journal} {\bibinfo  {journal} {Reviews of Modern Physics}\ }\textbf
+  {\bibinfo {volume} {82}},\ \bibinfo {pages} {3045} (\bibinfo {year}
+  {2010})},\ \bibinfo {note} {publisher: American Physical Society
+  (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Avron}\ \emph {et~al.}(2003)\citenamefont {Avron},
+  \citenamefont {Osadchy},\ and\ \citenamefont
+  {Seiler}}]{avron_topological_2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont
+  {Avron}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Osadchy}},\
+  and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Seiler}},\
+  }\bibfield  {title} {\bibinfo {title} {A {Topological} {Look} at the
+  {Quantum} {Hall} {Effect}},\ }\href {https://doi.org/10.1063/1.1611351}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physics Today}\ }\textbf
+  {\bibinfo {volume} {56}},\ \bibinfo {pages} {38} (\bibinfo {year} {2003})},\
+  \bibinfo {note} {publisher: AIP Publishing}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kane}\ and\ \citenamefont
+  {Mele}(2005)}]{kane_z2topological_2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~L.}\ \bibnamefont
+  {Kane}}\ and\ \bibinfo {author} {\bibfnamefont {E.~J.}\ \bibnamefont
+  {Mele}},\ }\bibfield  {title} {\bibinfo {title} {{Z2Topological} {Order} and
+  the {Quantum} {Spin} {Hall} {Effect}},\ }\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {95}},\
+  \href {https://doi.org/10.1103/physrevlett.95.146802}
+  {10.1103/physrevlett.95.146802} (\bibinfo {year} {2005}),\ \bibinfo {note}
+  {publisher: American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Laughlin}(1981)}]{laughlin_quantized_1981}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~B.}\ \bibnamefont
+  {Laughlin}},\ }\bibfield  {title} {\bibinfo {title} {Quantized {Hall}
+  conductivity in two dimensions},\ }\href
+  {https://doi.org/10.1103/physrevb.23.5632} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review B}\ }\textbf {\bibinfo {volume} {23}},\ \bibinfo
+  {pages} {5632} (\bibinfo {year} {1981})},\ \bibinfo {note} {publisher:
+  American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Thouless}\ \emph {et~al.}(1982)\citenamefont
+  {Thouless}, \citenamefont {Kohmoto}, \citenamefont {Nightingale},\ and\
+  \citenamefont {Den~Nijs}}]{thouless_quantized_1982}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~J.}\ \bibnamefont
+  {Thouless}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Kohmoto}},
+  \bibinfo {author} {\bibfnamefont {M.~P.}\ \bibnamefont {Nightingale}},\ and\
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Den~Nijs}},\ }\bibfield
+  {title} {\bibinfo {title} {Quantized {Hall} {Conductance} in a
+  {Two}-{Dimensional} {Periodic} {Potential}},\ }\href
+  {https://doi.org/10.1103/physrevlett.49.405} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {49}},\
+  \bibinfo {pages} {405} (\bibinfo {year} {1982})},\ \bibinfo {note}
+  {publisher: American Physical Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Konig}\ \emph {et~al.}(2007)\citenamefont {Konig},
+  \citenamefont {Wiedmann}, \citenamefont {Brune}, \citenamefont {Roth},
+  \citenamefont {Buhmann}, \citenamefont {Molenkamp}, \citenamefont {Qi},\ and\
+  \citenamefont {Zhang}}]{konig_quantum_2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Konig}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Wiedmann}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Brune}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Roth}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Buhmann}}, \bibinfo {author} {\bibfnamefont
+  {L.~W.}\ \bibnamefont {Molenkamp}}, \bibinfo {author} {\bibfnamefont {X.-L.}\
+  \bibnamefont {Qi}},\ and\ \bibinfo {author} {\bibfnamefont {S.-C.}\
+  \bibnamefont {Zhang}},\ }\bibfield  {title} {\bibinfo {title} {Quantum {Spin}
+  {Hall} {Insulator} {State} in {HgTe} {Quantum} {Wells}},\ }\href
+  {https://doi.org/10.1126/science.1148047} {\bibfield  {journal} {\bibinfo
+  {journal} {Science}\ }\textbf {\bibinfo {volume} {318}},\ \bibinfo {pages}
+  {766} (\bibinfo {year} {2007})},\ \bibinfo {note} {publisher: American
+  Association for the Advancement of Science (AAAS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Moore}\ and\ \citenamefont
+  {Balents}(2007)}]{moore_topological_2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont
+  {Moore}}\ and\ \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Balents}},\ }\bibfield  {title} {\bibinfo {title} {Topological invariants of
+  time-reversal-invariant band structures},\ }\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review B}\ }\textbf {\bibinfo {volume} {75}},\ \href
+  {https://doi.org/10.1103/physrevb.75.121306} {10.1103/physrevb.75.121306}
+  (\bibinfo {year} {2007}),\ \bibinfo {note} {publisher: American Physical
+  Society (APS)}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zhang}\ \emph {et~al.}(2009)\citenamefont {Zhang},
+  \citenamefont {Tang}, \citenamefont {Girit}, \citenamefont {Hao},
+  \citenamefont {Martin}, \citenamefont {Zettl}, \citenamefont {Crommie},
+  \citenamefont {Shen},\ and\ \citenamefont {Wang}}]{zhang_direct_2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Zhang}}, \bibinfo {author} {\bibfnamefont {T.-T.}\ \bibnamefont {Tang}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Girit}}, \bibinfo
+  {author} {\bibfnamefont {Z.}~\bibnamefont {Hao}}, \bibinfo {author}
+  {\bibfnamefont {M.~C.}\ \bibnamefont {Martin}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Zettl}}, \bibinfo {author} {\bibfnamefont
+  {M.~F.}\ \bibnamefont {Crommie}}, \bibinfo {author} {\bibfnamefont {Y.~R.}\
+  \bibnamefont {Shen}},\ and\ \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Wang}},\ }\bibfield  {title} {\bibinfo {title} {Direct
+  observation of a widely tunable bandgap in bilayer graphene},\ }\href
+  {https://doi.org/10.1038/nature08105} {\bibfield  {journal} {\bibinfo
+  {journal} {Nature}\ }\textbf {\bibinfo {volume} {459}},\ \bibinfo {pages}
+  {820} (\bibinfo {year} {2009})},\ \bibinfo {note} {publisher: Springer
+  Science and Business Media LLC}\BibitemShut {NoStop}%
+\end{thebibliography}%

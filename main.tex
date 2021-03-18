@@ -1,0 +1,81 @@
+% ****** Start of file main.tex ******
+%
+%
+\documentclass[reprint,amsmath,amssymb,aps,pra]{revtex4-2}
+
+\usepackage{graphicx}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+\usepackage{bm}% bold math
+%\usepackage{hyperref}% add hypertext capabilities
+%\usepackage[mathlines]{lineno}% Enable numbering of text and display math
+%\linenumbers\relax % Commence numbering lines
+
+% \usepackage[%showframe,%Uncomment any one of the following lines to test 
+% % scale=0.7, marginratio={1:1, 2:3}, ignoreall,% default settings
+% % text={7in,10in},centering,
+% margin=1.5in,
+% total={6.5in,8.75in}, top=1.2in, left=0.9in, includefoot,
+% height=10in,
+% a4paper,
+% hmargin={3cm,0.8in}
+% ]{geometry}
+
+\input{content/imports.tex}
+
+\begin{document}
+
+\preprint{UW/PHYS-423/03-2021}
+
+\title{Topological Phases of Matter}
+\thanks{Nobel Prize 2016}
+
+\author{Dan R. Mbanga}
+\homepage{www.danulab.com}
+\email{dmbanga@uw.edu}
+\affiliation{University of Washington, Department of Physics} 
+\altaffiliation[Also at ]{Amazon Web Services}
+
+% Date
+\date{\today}
+
+%\keywords{Suggested keywords}%Use showkeys class option if keyword display desired
+
+% Abstract
+\input{content/1-abstract.tex}
+
+\maketitle
+
+% \tableofcontents
+
+
+% Introduction
+\input{content/2-intro.tex}
+
+% Electronic Matter background
+\input{content/3-electronicMatter.tex}
+
+%Landay theory
+\input{content/4-landautheory.tex}
+
+%Topological phases of matter
+\input{content/5-topologicalphasesOfMatter.tex}
+
+%Examples and current work
+\input{content/6-examples.tex}
+
+%% Appendix %%
+\input{content/appendix.tex}
+
+%% REFERENCES %%
+
+% The \nocite command causes all entries in a bibliography to be printed out
+% whether or not they are actually referenced in the text. This is appropriate
+% for the sample file to show the different styles of references, but authors
+% most likely will not want to use it.
+\nocite{*}
+
+\bibliography{topomatter}% Produces the bibliography via BibTeX.
+
+\end{document}
+%
+% ****** End of file apssamp.tex ******
