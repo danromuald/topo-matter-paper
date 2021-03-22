@@ -1,1 +1,40 @@
-\section{\label{sec:top-phases}Topological Phases Of Matter}
+\section{\label{sec:top-phases}Topological Invariants}
+
+\subsection{\label{ssec:topo-intro}Topology in Physics}
+
+Topology is the study of invariants under arbitrary continous transformations of geometrical objects. 
+A topological space can be thought of as a set from which has been swept away all structure irrelevant to the continuity of functions defined on it.
+
+We now turn our attention to phases transitions in electronic matter that are not governed by an order parameter, but rather by a topological invariant.
+
+\subsection{\label{ssec:landau-levels}Landau levels}
+Feels like a SHO \\ 
+$\ket{\Psi} \tens{R} \ket{\Phi}$ \\
+$\partial_{x}A_{y}$ \\
+$H = \dfrac{1}{2m}\left(P_{x} - \dfrac{q}{c}\left(-By\right)\right)^{2} + \dfrac{1}{2m}P_{y}^{2} + \dfrac{1}{2m}P_{z}^{2}$ \\ \\
+$ \implies \left[H,P_{x}\right] = 0$ \\
+$\therefore \psi(x,y) = \psi(y) e^{ik_{x}x}$ \\
+$P_{x} = \hbar k_{x}$ \\
+$H_{k_{x}} = \dfrac{P_{y}^{2}}{2m} + \dfrac{1}{2m}\left(\dfrac{qBy}{c} + \hbar k_{x}\right)^{2}  $ \\
+$H_{k_{x}} = \dfrac{P_{y}^{2}}{2m} + \dfrac{1}{2} m \left(\dfrac{qB}{mc}\right)^{2} \left(y - \left(- \dfrac{\hbar k_{x} c}{qB}\right)\right)^{2} $ \\
+$H_{k_{x}} = \dfrac{P_{y}^{2}}{2m} + \dfrac{1}{2} m \left(\dfrac{qB}{mc}\right)^{2} \left(y - y_{0}\right)^{2} $ \\
+$y_{0} \equiv - \dfrac{\hbar k_{x} c}{qB}$
+
+\subsection{\label{ssec:iqhe}The Integer Quantum Hall Effect (IQHE)}
+$$
+\boldsymbol{\sigma}=\left(\begin{array}{cc}
+    0 & -\nu \frac{e^{2}}{h} \\
+    \nu \frac{e^{2}}{h} & 0
+    \end{array}\right)
+$$
+
+
+\subsection{\label{ssec:berry}Berry Phase}
+
+\subsection{\label{ssec:tknn}TKNN}
+
+\begin{align}
+    & \mathbf{A}(\mathbf{k})=-i\left\langle u_{i}(\mathbf{k})\left|\nabla_{k}\right| u_{i}(\mathbf{k})\right\rangle \\
+    &  \mathbf{F}(\mathbf{k})=\nabla_{k} \times \mathbf{A}(\mathbf{k}) \\
+    & v=\frac{1}{2 \pi} \oint_{C} \mathbf{A}(\mathbf{k}) \cdot d \mathbf{k}=\frac{1}{2 \pi} \int_{B Z} \mathbf{F}(\mathbf{k}) d^{2} \mathbf{k}
+\end{align}

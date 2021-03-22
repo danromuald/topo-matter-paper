@@ -1,12 +1,7 @@
 % ****** Start of file main.tex ******
 %
 %
-\documentclass[reprint,amsmath,amssymb
-% ,aip
-% ,jmp
-,aps
-,pra
-]{revtex4-2}
+\documentclass[reprint,amsmath,amssymb,aps,pra]{revtex4-2}
 
 \usepackage{graphicx}% Include figure files
 \usepackage{dcolumn}% Align table columns on decimal point
@@ -38,13 +33,13 @@
 \preprint{UW/PHYS-423/03-2021}
 
 \title{Topological Phases of Matter}
-\thanks{Term paper on the Nobel Prize 2016}
+\thanks{Nobel Prize 2016}
 
 \author{Dan R. Mbanga}
-% \homepage{www.danulab.com}
+\homepage{www.danulab.com}
 \email{dmbanga@uw.edu}
 \affiliation{University of Washington, Department of Physics} 
-\altaffiliation[]{Amazon Web Services}
+\altaffiliation[Also at ]{Amazon Web Services}
 
 % Date
 \date{\today}
@@ -62,11 +57,11 @@
 % Introduction
 \input{content/2-intro.tex}
 
-%Landay theory
-\input{content/4-landautheory.tex}
-
 % Electronic Matter background
 \input{content/3-electronicMatter.tex}
+
+%Landay theory
+\input{content/4-landautheory.tex}
 
 %Topological phases of matter
 \input{content/5-topologicalphasesOfMatter.tex}
@@ -83,10 +78,9 @@
 % whether or not they are actually referenced in the text. This is appropriate
 % for the sample file to show the different styles of references, but authors
 % most likely will not want to use it.
+\nocite{*}
 
-% \nocite{*}
-
-\bibliography{topomatter}
+\bibliography{topo-matter}
 
 \end{document}
 %

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  18 MAR 2021 02:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 MAR 2021 00:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -498,59 +498,66 @@ See the caption package documentation for explanation.
 )
 \c@subfigure=\count291
 \c@subtable=\count292
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen270
+\WF@size=\dimen271
+\c@WF@wrappedlines=\count293
+\WF@box=\box78
+\WF@everypar=\toks46
+Package: wrapfig 2003/01/31  v 3.6
 )
 \arrow=\skip61
-LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c@thm=\count293
-\c@joke=\count294
-\c@defn=\count295
-\c@prop=\count296
-\c@rmk=\count297
-\c@conj=\count298
-\c@cor=\count299
+\c@thm=\count294
+\c@joke=\count295
+\c@defn=\count296
+\c@prop=\count297
+\c@rmk=\count298
+\c@conj=\count299
+\c@cor=\count300
 )
-\c@problem=\count300
-Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 25.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 25.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 25.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 25.
+\c@problem=\count301
+Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 36.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 36.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 36.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 36.
  (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
  (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
-\scratchdimen=\dimen270
-\scratchbox=\box78
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count304
-\MPscratchDim=\dimen271
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks47
+\scratchcounter=\count302
+\scratchdimen=\dimen272
+\scratchbox=\box79
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen273
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks48
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -558,33 +565,75 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \openout3 = `mainNotes.bib'.
 
- (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/1-abstract.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/2-intro.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/3-electronicMatter.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/4-landautheory.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/5-topologicalphasesOfMatter.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/6-examples.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/appendix.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.bbl
-Underfull \hbox (badness 1655) in paragraph at lines 144--152
+ (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/1-abstract.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/2-intro.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/4-landautheory.tex
+<figs/water-vs-ice.png, id=4, 448.67625pt x 229.85875pt>
+File: figs/water-vs-ice.png Graphic file (type png)
+<use figs/water-vs-ice.png>
+Package pdftex.def Info: figs/water-vs-ice.png  used on input line 7.
+(pdftex.def)             Requested size: 127.5pt x 65.3175pt.
+) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/3-electronicMatter.tex [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/figs/water-vs-ice.png>]
+Package epstopdf Info: Source file: <figs/ek-free.eps>
+(epstopdf)                    date: 2021-03-18 23:03:29
+(epstopdf)                    size: 216074 bytes
+(epstopdf)             Output file: <figs/ek-free-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-18 23:03:31
+(epstopdf)                    size: 5468 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/ek-free-eps-converted-to.pdf figs/ek-free.eps>
+(epstopdf)             \includegraphics on input line 15.
+Package epstopdf Info: Output file is already uptodate.
+<figs/ek-free-eps-converted-to.pdf, id=27, 255.95625pt x 137.51375pt>
+File: figs/ek-free-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/ek-free-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ek-free-eps-converted-to.pdf  used on input line 15.
+(pdftex.def)             Requested size: 127.5pt x 68.49861pt.
+<figs/nfe-ek.png, id=28, 382.42876pt x 335.2525pt>
+File: figs/nfe-ek.png Graphic file (type png)
+<use figs/nfe-ek.png>
+Package pdftex.def Info: figs/nfe-ek.png  used on input line 28.
+(pdftex.def)             Requested size: 127.5pt x 111.7693pt.
+<figs/Hall.png, id=29, 568.1225pt x 255.95625pt>
+File: figs/Hall.png Graphic file (type png)
+<use figs/Hall.png>
+Package pdftex.def Info: figs/Hall.png  used on input line 39.
+(pdftex.def)             Requested size: 127.5pt x 57.43925pt.
+) [2 </Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/figs/ek-free-eps-converted-to.pdf> </Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/figs/nfe-ek.png> </Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/figs/Hall.png>] (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/5-topologicalphasesOfMatter.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
+
+ []
+
+) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/6-examples.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/content/appendix.tex) (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.bbl
+Underfull \hbox (badness 1701) in paragraph at lines 83--89
+ []\OT1/cmr/m/n/9 P. Ho-hen-berg and A. Krekhov, An in-tro-duc-tion to
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 92--98
+ []\OT1/cmr/m/n/9 29 - ON THE THE-ORY OF PHASE TRAN-SI-
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 101--107
  \OT1/cmr/m/n/9 phases of mat-ter, Re-views of Mod-ern Physics \OT1/cmr/bx/n/9 89\OT1/cmr/m/n/9 ,
  []
 
-
-Underfull \hbox (badness 1325) in paragraph at lines 182--189
- \OT1/cmr/m/n/9 and W. Yu, Ev-i-dence of the Berezinskii-Kosterlitz-
- []
-
-[1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.aux) ) 
+) [3] (/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.aux) ) 
 Here is how much of TeX's memory you used:
- 19063 strings out of 480608
- 371849 string characters out of 5903631
- 620791 words of memory out of 5000000
- 34572 multiletter control sequences out of 15000+600000
- 547186 words of font info for 79 fonts, out of 8000000 for 9000
+ 19136 strings out of 480608
+ 372435 string characters out of 5903631
+ 635524 words of memory out of 5000000
+ 34629 multiletter control sequences out of 15000+600000
+ 548904 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,8n,86p,645b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf" (2 pages, 125491 bytes).
+ 70i,12n,86p,1528b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf" (3 pages, 533306 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 128 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

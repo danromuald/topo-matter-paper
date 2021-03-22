@@ -1,0 +1,12 @@
+2. Lorentz force $\quad \propto \vec{v} \times \vec{B} \propto j_{x}, B_{z}$
+$$
+\therefore \text { Define Hall coefficient } R_{H} \equiv \frac{\mathcal{E}_{y}}{j \times B_{z}}
+$$
+a. Eqn. of motion: $\frac{d \vec{p}}{d t}=-e\left(\overrightarrow{\mathcal{E}}+\frac{\vec{p}}{m} \times \vec{B}\right)-\frac{\vec{p}}{\tau} \quad[\mathrm{SI}]$
+b. s.s. $\left(\frac{d \vec{p}}{d t}=0\right)$
+$$
+\begin{array}{ll}
+\mathrm{x}: & -e \mathcal{E}_{x}-\frac{e B_{z}}{m} p_{y}-\frac{p_{x}}{\tau}=0 \\
+\mathrm{y}: & -e \mathcal{E}_{y}+\frac{e B_{z}}{m} p_{x}-\frac{p_{y}}{\tau}=0
+\end{array}
+$$
