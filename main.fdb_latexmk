@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1616381320 "main.aux" "main.bbl" "main" 1616387607
+["bibtex main"] 1616381320 "main.aux" "main.bbl" "main" 1616399605
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/revtex/apsrev4-2.bst" 1547851249 69612 d43c8740409d8c756864ce4e3d57a214 ""
   "main.aux" 1616387607 3870 fcd7c8cae7e4fecd34f08e570802fea1 "pdflatex"
   "mainNotes.bib" 1616387607 104 4d8bb863c86f3d7b03a471e9d4707f34 "pdflatex"
   "topomatter.bib" 1616296406 18505 7c8ef14605d21e28dcb831fc898da8b2 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1616387606 "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf" "main" 1616387607
+  "main.blg"
+["pdflatex"] 1616387606 "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf" "main" 1616399605
   "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.aux" 1616387607 3870 fcd7c8cae7e4fecd34f08e570802fea1 ""
   "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" 1616296431 2155 734538c2e01ae268f9fbb7c70efdf1ed ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -225,9 +225,9 @@
   "main.bbl" 1616381320 5805 2d7a0b4647d4579563c2716f3f290bd3 "bibtex main"
   "main.tex" 1616296431 2155 734538c2e01ae268f9fbb7c70efdf1ed ""
   (generated)
-  "mainNotes.bib"
-  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.log"
   "main.pdf"
   "main.aux"
-  "main.log"
   "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf"
+  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.log"
+  "mainNotes.bib"
+  "main.log"
