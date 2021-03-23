@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex main"] 1616381320 "main.aux" "main.bbl" "main" 1616399605
+["bibtex main"] 1616458968 "main.aux" "main.bbl" "main" 1616458974
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/revtex/apsrev4-2.bst" 1547851249 69612 d43c8740409d8c756864ce4e3d57a214 ""
-  "main.aux" 1616387607 3870 fcd7c8cae7e4fecd34f08e570802fea1 "pdflatex"
-  "mainNotes.bib" 1616387607 104 4d8bb863c86f3d7b03a471e9d4707f34 "pdflatex"
+  "main.aux" 1616458969 5843 5247935bc24b9230802817a36951f392 "pdflatex"
+  "mainNotes.bib" 1616458969 104 4d8bb863c86f3d7b03a471e9d4707f34 "pdflatex"
   "topomatter.bib" 1616296406 18505 7c8ef14605d21e28dcb831fc898da8b2 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1616387606 "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf" "main" 1616399605
-  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.aux" 1616387607 3870 fcd7c8cae7e4fecd34f08e570802fea1 ""
-  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" 1616296431 2155 734538c2e01ae268f9fbb7c70efdf1ed ""
+["pdflatex"] 1616458968 "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf" "main" 1616458974
+  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.aux" 1616458969 5843 5247935bc24b9230802817a36951f392 ""
+  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.tex" 1616458968 2153 22fc116df7ad0fcaa7e0e46355b39d7d ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1136768653 1536 b3387106d9afecbfe14bde2de6eadf47 ""
@@ -213,7 +213,7 @@
   "content/2-intro.tex" 1616140105 1982 14c47c9a9c6c66d2ea2bfc7175eb9ae1 ""
   "content/3-electronicMatter.tex" 1616297174 4728 12ca978de806b6d9f4fed00a8d2ca372 ""
   "content/4-landautheory.tex" 1616296367 2029 80f2e69bebdb67447aac88438ae0b08d ""
-  "content/5-topologicalphasesOfMatter.tex" 1616387605 1954 c9f73646bf8d29f4be023f6420f211fa ""
+  "content/5-topologicalphasesOfMatter.tex" 1616458964 1931 70557159f1cd04bf07bd05af2b38856b ""
   "content/6-examples.tex" 1616046449 55 e430ffbe7bddb277d84e8b14f88f48a5 ""
   "content/appendix.tex" 1616048354 147 095067ce501d053c350de8cd7b030839 ""
   "content/imports.tex" 1616286331 1634 0dd0fc69a72f4f3176c6f293948b7787 ""
@@ -221,13 +221,13 @@
   "figs/ek-free.eps" 1616123009 216074 314e62b02e28d8ac92d670646b86945b ""
   "figs/nfe-ek.png" 1616123532 100735 5e68f33cfe74e7571c7a5f8c79fa54bc ""
   "figs/water-vs-ice.png" 1616290409 80706 45af201496d9a1c4f048e22ccca4646c ""
-  "main.aux" 1616387607 3870 fcd7c8cae7e4fecd34f08e570802fea1 "pdflatex"
-  "main.bbl" 1616381320 5805 2d7a0b4647d4579563c2716f3f290bd3 "bibtex main"
-  "main.tex" 1616296431 2155 734538c2e01ae268f9fbb7c70efdf1ed ""
+  "main.aux" 1616458969 5843 5247935bc24b9230802817a36951f392 "pdflatex"
+  "main.bbl" 1616458968 24080 24528c3de653d1b9e9952423c085db11 "bibtex main"
+  "main.tex" 1616458968 2153 22fc116df7ad0fcaa7e0e46355b39d7d ""
   (generated)
-  "main.pdf"
-  "main.aux"
-  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf"
-  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.log"
   "mainNotes.bib"
+  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.log"
+  "main.aux"
   "main.log"
+  "/Users/dmmbanga/Documents/PHYS/PHYS 423 - Condensed Matter Physics/topo-phases-of-matter/paper/main.pdf"
+  "main.pdf"
